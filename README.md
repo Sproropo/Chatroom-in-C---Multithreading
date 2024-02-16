@@ -1,7 +1,5 @@
 # Chatroom-in-C---Multithreading
-SimpleChat is a command-line chatroom application written in C using multithreading. No encryption or authentication implemented
-=======
-SimpleChat is a command-line chatroom application written in C using multithreading. No encryption or authentication implemented
+This is a command-line chatroom application written in C using multithreading. No encryption or authentication implemented
 
 server.c: Contains the main server-side logic.
 client.c: The client-side code that handles user input.
